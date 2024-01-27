@@ -8,8 +8,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>demo</name>
-    <description>springboot-library_manager_system</description>
+    <name>ITSource 每日分享</name>
+    <description>关注微信公众号: 【ITSource每日分享】,免费获取一万个IT资源：项目源码，软件工具，面试面经，学习视频 应有尽有！！！</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
